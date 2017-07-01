@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\dbce50716e5b9167882cbe6bf33ce0b849d914d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_05a000da6e15f6e59d55c8d7fdf3ea2d8469c57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6dcd9c28ccafe1cf561b34a9c59edbfedad2650d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_2e907d8574d81a5eb184d83786bc813454580392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\87b74012a7b3559dd91e0dc807d4862a2c53d1f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_f2b8dd535a9028f1c716efeb4f72d6f5b1a8bf6d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neba\.android\build-cache\c195bc92e90701a406cd637d4eed1b9e4b5683ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68055ccb5d098a398b350134a4b881128f50b59f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\c195bc92e90701a406cd637d4eed1b9e4b5683ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_68055ccb5d098a398b350134a4b881128f50b59f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\1d266af9a4e1defd3bfb26f8b207cfed16fc80fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_ba828b988757f02a3be9870c8234e4045aa84ca7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b09c71714e28a2b1d9cdbf63f8ba3fb9869fb88">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_890a7ba5edcb7bb4aba30abb933b209e64609610\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\a6778c91d061bf7ad008a444f3f193aad71e7ec0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_debf9e3992f2776f3fe23170e398c5a565e71bb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\49171c233a1dedebd0e92da727707bbc153b7e82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_ef735ae63641073dd3572112121761588f4ab4b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\b0d6e485eb5881d5fc0967d9f51b85a492b3ec1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_c843dc0d0ac42a3be9e31c59fcc5f3d3f7e4b424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\f9533c6c6c0f29ae65decd6634a1fe8a2be35aaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_3fb749bf5cc4b83eff526c8102d3851e19be949c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_399df7d8fa43cbb3639ebc20fb36d9d006565012\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\45b0d585c26330b0bb0686efec8a850cd702b6ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_b0108a271c2b6ece921cead7c8399bb8103c9676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\80046e5d39beca95ab0f4c6f3690836249d940a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_847f98bfca293fc8969931b766af66ce347e018b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\32b449d068e57e58c5ab3e7afcf5582834113653\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_7f0dfdc99fa6f4f4863b4769cc9b8a5d96332a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\a070ebf8f38c0ced618ba2f4d73949eb0f988a45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_03b704514d8b89a5efcd72afa982f6232bd35b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\69d0377474b2836ff3c8586f9d3630924d89dab6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_5c59761053a6924b2e47d7b97e6d0633ec463139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neba\.android\build-cache\732de5792503e1b4fd627970acff2cdf8fbb108d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Neba\AndroidStudioProjects\ContentProviders\app\build\intermediates\pre-dexed\debug\classes_0517b12d3998ec20ac159e708aa2a4aefb3278a1.jar" />
+    </item>
+
+</items>
